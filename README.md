@@ -1,3 +1,8 @@
+# Check List
+- Python under 3.10 (I use 3.9.X)
+  - related to [no longer use implicit conversion to int with loss in python 3.10](https://bugs.python.org/issue37999)
+  - apply the changed python version with `idapyswitch.exe`
+
 # Tenet - A Trace Explorer for Reverse Engineers
 
 <p align="center">
